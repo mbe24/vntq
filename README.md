@@ -1,5 +1,8 @@
 # vntq
 
+[![CI](https://github.com/mbe24/vntq/actions/workflows/ci.yml/badge.svg)](https://github.com/vntq/svelte-bun/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+
 Edge-native event-query service for concerts, gigs, comedy, and live experiences.
 
 ## What This Repo Includes
